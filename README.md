@@ -1,6 +1,6 @@
 # Atividade Prática III — Portfólio Pessoal
 
-Projeto acadêmico da disciplina de Front End. A atividade desenvolve uma apresentação pessoal em formato de portfólio web.
+Projeto acadêmico da disciplina de Front End. A atividade desenvolve a criação de uma tabela.
 
 ## Arquivo
 
@@ -10,4 +10,3 @@ Projeto acadêmico da disciplina de Front End. A atividade desenvolve uma aprese
 
 - HTML5
 - CSS3
-- JavaScript

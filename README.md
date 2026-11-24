@@ -1,4 +1,4 @@
-# Atividade Prática III — Portfólio Pessoal
+# Atividade Prática III — Criação de uma Tabela.
 
 Projeto acadêmico da disciplina de Front End. A atividade desenvolve a criação de uma tabela.
 
